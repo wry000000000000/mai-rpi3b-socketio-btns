@@ -1,3 +1,4 @@
+'''Just a logger，you needn't modify it 只是个日志记录器，不用修改'''
 import datetime
 import time,sys
 def log(type_:str,msg):
