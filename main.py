@@ -1,3 +1,5 @@
+'''The server file (install on your ALLS or other mainunits running maimai)
+服务器文件（装在你的ALLS或者其他能运行maimai的主机上）'''
 import eventlet
 
 import logger
